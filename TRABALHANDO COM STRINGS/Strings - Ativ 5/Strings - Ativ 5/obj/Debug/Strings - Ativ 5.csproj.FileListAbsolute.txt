@@ -1,0 +1,10 @@
+C:\Users\Thiago\source\repos\Strings - Ativ 5\Strings - Ativ 5\bin\Debug\Strings - Ativ 5.exe.config
+C:\Users\Thiago\source\repos\Strings - Ativ 5\Strings - Ativ 5\bin\Debug\Strings - Ativ 5.exe
+C:\Users\Thiago\source\repos\Strings - Ativ 5\Strings - Ativ 5\bin\Debug\Strings - Ativ 5.pdb
+C:\Users\Thiago\source\repos\Strings - Ativ 5\Strings - Ativ 5\obj\Debug\Strings - Ativ 5.csprojResolveAssemblyReference.cache
+C:\Users\Thiago\source\repos\Strings - Ativ 5\Strings - Ativ 5\obj\Debug\Strings___Ativ_5.Form1.resources
+C:\Users\Thiago\source\repos\Strings - Ativ 5\Strings - Ativ 5\obj\Debug\Strings___Ativ_5.Properties.Resources.resources
+C:\Users\Thiago\source\repos\Strings - Ativ 5\Strings - Ativ 5\obj\Debug\Strings - Ativ 5.csproj.GenerateResource.Cache
+C:\Users\Thiago\source\repos\Strings - Ativ 5\Strings - Ativ 5\obj\Debug\Strings - Ativ 5.csproj.CoreCompileInputs.cache
+C:\Users\Thiago\source\repos\Strings - Ativ 5\Strings - Ativ 5\obj\Debug\Strings - Ativ 5.exe
+C:\Users\Thiago\source\repos\Strings - Ativ 5\Strings - Ativ 5\obj\Debug\Strings - Ativ 5.pdb

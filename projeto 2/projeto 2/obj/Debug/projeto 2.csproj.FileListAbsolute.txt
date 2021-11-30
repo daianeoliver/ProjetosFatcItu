@@ -1,0 +1,8 @@
+c:\users\aluno - gti-ads\documents\visual studio 2015\Projects\projeto 2\projeto 2\bin\Debug\projeto 2.exe.config
+c:\users\aluno - gti-ads\documents\visual studio 2015\Projects\projeto 2\projeto 2\bin\Debug\projeto 2.exe
+c:\users\aluno - gti-ads\documents\visual studio 2015\Projects\projeto 2\projeto 2\bin\Debug\projeto 2.pdb
+c:\users\aluno - gti-ads\documents\visual studio 2015\Projects\projeto 2\projeto 2\obj\Debug\projeto_2.Form1.resources
+c:\users\aluno - gti-ads\documents\visual studio 2015\Projects\projeto 2\projeto 2\obj\Debug\projeto_2.Properties.Resources.resources
+c:\users\aluno - gti-ads\documents\visual studio 2015\Projects\projeto 2\projeto 2\obj\Debug\projeto 2.csproj.GenerateResource.Cache
+c:\users\aluno - gti-ads\documents\visual studio 2015\Projects\projeto 2\projeto 2\obj\Debug\projeto 2.exe
+c:\users\aluno - gti-ads\documents\visual studio 2015\Projects\projeto 2\projeto 2\obj\Debug\projeto 2.pdb

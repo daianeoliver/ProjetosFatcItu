@@ -1,0 +1,8 @@
+c:\users\aluno - gti-ads\documents\visual studio 2015\Projects\MetodoFormat\MetodoFormat\bin\Debug\MetodoFormat.exe.config
+c:\users\aluno - gti-ads\documents\visual studio 2015\Projects\MetodoFormat\MetodoFormat\bin\Debug\MetodoFormat.exe
+c:\users\aluno - gti-ads\documents\visual studio 2015\Projects\MetodoFormat\MetodoFormat\bin\Debug\MetodoFormat.pdb
+c:\users\aluno - gti-ads\documents\visual studio 2015\Projects\MetodoFormat\MetodoFormat\obj\Debug\MetodoFormat.frmExemplo2.resources
+c:\users\aluno - gti-ads\documents\visual studio 2015\Projects\MetodoFormat\MetodoFormat\obj\Debug\MetodoFormat.Properties.Resources.resources
+c:\users\aluno - gti-ads\documents\visual studio 2015\Projects\MetodoFormat\MetodoFormat\obj\Debug\MetodoFormat.csproj.GenerateResource.Cache
+c:\users\aluno - gti-ads\documents\visual studio 2015\Projects\MetodoFormat\MetodoFormat\obj\Debug\MetodoFormat.exe
+c:\users\aluno - gti-ads\documents\visual studio 2015\Projects\MetodoFormat\MetodoFormat\obj\Debug\MetodoFormat.pdb

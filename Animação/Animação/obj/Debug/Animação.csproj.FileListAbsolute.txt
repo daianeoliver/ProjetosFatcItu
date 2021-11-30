@@ -1,0 +1,9 @@
+D:\Fatec 2017 - 2ºsem\Fábio - Linguagem de Processos\Animação\Animação\bin\Debug\Animação.exe.config
+D:\Fatec 2017 - 2ºsem\Fábio - Linguagem de Processos\Animação\Animação\bin\Debug\Animação.exe
+D:\Fatec 2017 - 2ºsem\Fábio - Linguagem de Processos\Animação\Animação\bin\Debug\Animação.pdb
+D:\Fatec 2017 - 2ºsem\Fábio - Linguagem de Processos\Animação\Animação\obj\Debug\Animação.Form1.resources
+D:\Fatec 2017 - 2ºsem\Fábio - Linguagem de Processos\Animação\Animação\obj\Debug\Animação.Properties.Resources.resources
+D:\Fatec 2017 - 2ºsem\Fábio - Linguagem de Processos\Animação\Animação\obj\Debug\Animação.csproj.GenerateResource.Cache
+D:\Fatec 2017 - 2ºsem\Fábio - Linguagem de Processos\Animação\Animação\obj\Debug\Animação.exe
+D:\Fatec 2017 - 2ºsem\Fábio - Linguagem de Processos\Animação\Animação\obj\Debug\Animação.pdb
+D:\Fatec 2017 - 2ºsem\Fábio - Linguagem de Processos\Animação\Animação\obj\Debug\Animação.csprojResolveAssemblyReference.cache

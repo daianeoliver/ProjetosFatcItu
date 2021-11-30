@@ -1,0 +1,10 @@
+C:\Users\FranciscoJhonata\Desktop\DAIANE\FATEC 2017\Fatec 2017 - 2ºsem\Fábio - Linguagem de Programação\Exemplo 4\Exemplo 4\bin\Debug\Exemplo 4.exe.config
+C:\Users\FranciscoJhonata\Desktop\DAIANE\FATEC 2017\Fatec 2017 - 2ºsem\Fábio - Linguagem de Programação\Exemplo 4\Exemplo 4\bin\Debug\Exemplo 4.exe
+C:\Users\FranciscoJhonata\Desktop\DAIANE\FATEC 2017\Fatec 2017 - 2ºsem\Fábio - Linguagem de Programação\Exemplo 4\Exemplo 4\bin\Debug\Exemplo 4.pdb
+C:\Users\FranciscoJhonata\Desktop\DAIANE\FATEC 2017\Fatec 2017 - 2ºsem\Fábio - Linguagem de Programação\Exemplo 4\Exemplo 4\obj\Debug\Exemplo 4.csprojResolveAssemblyReference.cache
+C:\Users\FranciscoJhonata\Desktop\DAIANE\FATEC 2017\Fatec 2017 - 2ºsem\Fábio - Linguagem de Programação\Exemplo 4\Exemplo 4\obj\Debug\Exemplo_4.Form1.resources
+C:\Users\FranciscoJhonata\Desktop\DAIANE\FATEC 2017\Fatec 2017 - 2ºsem\Fábio - Linguagem de Programação\Exemplo 4\Exemplo 4\obj\Debug\Exemplo_4.Properties.Resources.resources
+C:\Users\FranciscoJhonata\Desktop\DAIANE\FATEC 2017\Fatec 2017 - 2ºsem\Fábio - Linguagem de Programação\Exemplo 4\Exemplo 4\obj\Debug\Exemplo 4.csproj.GenerateResource.Cache
+C:\Users\FranciscoJhonata\Desktop\DAIANE\FATEC 2017\Fatec 2017 - 2ºsem\Fábio - Linguagem de Programação\Exemplo 4\Exemplo 4\obj\Debug\Exemplo 4.csproj.CoreCompileInputs.cache
+C:\Users\FranciscoJhonata\Desktop\DAIANE\FATEC 2017\Fatec 2017 - 2ºsem\Fábio - Linguagem de Programação\Exemplo 4\Exemplo 4\obj\Debug\Exemplo 4.exe
+C:\Users\FranciscoJhonata\Desktop\DAIANE\FATEC 2017\Fatec 2017 - 2ºsem\Fábio - Linguagem de Programação\Exemplo 4\Exemplo 4\obj\Debug\Exemplo 4.pdb

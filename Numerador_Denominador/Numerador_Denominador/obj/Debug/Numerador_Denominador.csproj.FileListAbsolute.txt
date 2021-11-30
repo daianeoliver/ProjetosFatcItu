@@ -1,0 +1,10 @@
+C:\Users\FranciscoJhonata\Desktop\DAIANE\FATEC 2017\Fatec 2017 - 2ºsem\Fábio - Linguagem de Programação\Numerador_Denominador\Numerador_Denominador\bin\Debug\Numerador_Denominador.exe.config
+C:\Users\FranciscoJhonata\Desktop\DAIANE\FATEC 2017\Fatec 2017 - 2ºsem\Fábio - Linguagem de Programação\Numerador_Denominador\Numerador_Denominador\bin\Debug\Numerador_Denominador.exe
+C:\Users\FranciscoJhonata\Desktop\DAIANE\FATEC 2017\Fatec 2017 - 2ºsem\Fábio - Linguagem de Programação\Numerador_Denominador\Numerador_Denominador\bin\Debug\Numerador_Denominador.pdb
+C:\Users\FranciscoJhonata\Desktop\DAIANE\FATEC 2017\Fatec 2017 - 2ºsem\Fábio - Linguagem de Programação\Numerador_Denominador\Numerador_Denominador\obj\Debug\Numerador_Denominador.csprojResolveAssemblyReference.cache
+C:\Users\FranciscoJhonata\Desktop\DAIANE\FATEC 2017\Fatec 2017 - 2ºsem\Fábio - Linguagem de Programação\Numerador_Denominador\Numerador_Denominador\obj\Debug\Numerador_Denominador.Form1.resources
+C:\Users\FranciscoJhonata\Desktop\DAIANE\FATEC 2017\Fatec 2017 - 2ºsem\Fábio - Linguagem de Programação\Numerador_Denominador\Numerador_Denominador\obj\Debug\Numerador_Denominador.Properties.Resources.resources
+C:\Users\FranciscoJhonata\Desktop\DAIANE\FATEC 2017\Fatec 2017 - 2ºsem\Fábio - Linguagem de Programação\Numerador_Denominador\Numerador_Denominador\obj\Debug\Numerador_Denominador.csproj.GenerateResource.Cache
+C:\Users\FranciscoJhonata\Desktop\DAIANE\FATEC 2017\Fatec 2017 - 2ºsem\Fábio - Linguagem de Programação\Numerador_Denominador\Numerador_Denominador\obj\Debug\Numerador_Denominador.csproj.CoreCompileInputs.cache
+C:\Users\FranciscoJhonata\Desktop\DAIANE\FATEC 2017\Fatec 2017 - 2ºsem\Fábio - Linguagem de Programação\Numerador_Denominador\Numerador_Denominador\obj\Debug\Numerador_Denominador.exe
+C:\Users\FranciscoJhonata\Desktop\DAIANE\FATEC 2017\Fatec 2017 - 2ºsem\Fábio - Linguagem de Programação\Numerador_Denominador\Numerador_Denominador\obj\Debug\Numerador_Denominador.pdb

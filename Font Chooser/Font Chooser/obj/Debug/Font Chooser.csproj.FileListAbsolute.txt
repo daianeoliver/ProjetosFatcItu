@@ -1,0 +1,12 @@
+D:\Fatec 2017 - 2ºsem\Fábio - Linguagem de Processos\Font Chooser\Font Chooser\bin\Debug\Font Chooser.exe.config
+D:\Fatec 2017 - 2ºsem\Fábio - Linguagem de Processos\Font Chooser\Font Chooser\bin\Debug\Font Chooser.exe
+D:\Fatec 2017 - 2ºsem\Fábio - Linguagem de Processos\Font Chooser\Font Chooser\bin\Debug\Font Chooser.pdb
+D:\Fatec 2017 - 2ºsem\Fábio - Linguagem de Processos\Font Chooser\Font Chooser\obj\Debug\Font Chooser.csprojResolveAssemblyReference.cache
+D:\Fatec 2017 - 2ºsem\Fábio - Linguagem de Processos\Font Chooser\Font Chooser\obj\Debug\Font_Chooser.myForm.resources
+D:\Fatec 2017 - 2ºsem\Fábio - Linguagem de Processos\Font Chooser\Font Chooser\obj\Debug\Font_Chooser.Properties.Resources.resources
+D:\Fatec 2017 - 2ºsem\Fábio - Linguagem de Processos\Font Chooser\Font Chooser\obj\Debug\Font Chooser.csproj.GenerateResource.Cache
+D:\Fatec 2017 - 2ºsem\Fábio - Linguagem de Processos\Font Chooser\Font Chooser\obj\Debug\Font Chooser.exe
+D:\Fatec 2017 - 2ºsem\Fábio - Linguagem de Processos\Font Chooser\Font Chooser\obj\Debug\Font Chooser.pdb
+D:\Fatec 2017 - 2ºsem\Fábio - Linguagem de Programação\Font Chooser\Font Chooser\bin\Debug\Font Chooser.exe.config
+D:\Fatec 2017 - 2ºsem\Fábio - Linguagem de Programação\Font Chooser\Font Chooser\obj\Debug\Font Chooser.exe
+D:\Fatec 2017 - 2ºsem\Fábio - Linguagem de Programação\Font Chooser\Font Chooser\obj\Debug\Font Chooser.pdb

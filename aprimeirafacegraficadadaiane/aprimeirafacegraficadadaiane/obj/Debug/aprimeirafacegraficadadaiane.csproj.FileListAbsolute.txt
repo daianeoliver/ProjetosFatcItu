@@ -1,0 +1,9 @@
+c:\users\aluno - gti-ads\documents\visual studio 2015\Projects\aprimeirafacegraficadadaiane\aprimeirafacegraficadadaiane\bin\Debug\aprimeirafacegraficadadaiane.exe.config
+c:\users\aluno - gti-ads\documents\visual studio 2015\Projects\aprimeirafacegraficadadaiane\aprimeirafacegraficadadaiane\bin\Debug\aprimeirafacegraficadadaiane.exe
+c:\users\aluno - gti-ads\documents\visual studio 2015\Projects\aprimeirafacegraficadadaiane\aprimeirafacegraficadadaiane\bin\Debug\aprimeirafacegraficadadaiane.pdb
+c:\users\aluno - gti-ads\documents\visual studio 2015\Projects\aprimeirafacegraficadadaiane\aprimeirafacegraficadadaiane\obj\Debug\aprimeirafacegraficadadaiane.csprojResolveAssemblyReference.cache
+c:\users\aluno - gti-ads\documents\visual studio 2015\Projects\aprimeirafacegraficadadaiane\aprimeirafacegraficadadaiane\obj\Debug\aprimeirafacegraficadadaiane.frmExemplo.resources
+c:\users\aluno - gti-ads\documents\visual studio 2015\Projects\aprimeirafacegraficadadaiane\aprimeirafacegraficadadaiane\obj\Debug\aprimeirafacegraficadadaiane.Properties.Resources.resources
+c:\users\aluno - gti-ads\documents\visual studio 2015\Projects\aprimeirafacegraficadadaiane\aprimeirafacegraficadadaiane\obj\Debug\aprimeirafacegraficadadaiane.csproj.GenerateResource.Cache
+c:\users\aluno - gti-ads\documents\visual studio 2015\Projects\aprimeirafacegraficadadaiane\aprimeirafacegraficadadaiane\obj\Debug\aprimeirafacegraficadadaiane.exe
+c:\users\aluno - gti-ads\documents\visual studio 2015\Projects\aprimeirafacegraficadadaiane\aprimeirafacegraficadadaiane\obj\Debug\aprimeirafacegraficadadaiane.pdb

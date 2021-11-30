@@ -1,0 +1,8 @@
+D:\Fatec 2017 - 2ºsem\Fábio - Linguagem de Programação\File IO\IO\IO\bin\Debug\IO.exe.config
+D:\Fatec 2017 - 2ºsem\Fábio - Linguagem de Programação\File IO\IO\IO\bin\Debug\IO.exe
+D:\Fatec 2017 - 2ºsem\Fábio - Linguagem de Programação\File IO\IO\IO\bin\Debug\IO.pdb
+D:\Fatec 2017 - 2ºsem\Fábio - Linguagem de Programação\File IO\IO\IO\obj\Debug\IO.Form1.resources
+D:\Fatec 2017 - 2ºsem\Fábio - Linguagem de Programação\File IO\IO\IO\obj\Debug\IO.Properties.Resources.resources
+D:\Fatec 2017 - 2ºsem\Fábio - Linguagem de Programação\File IO\IO\IO\obj\Debug\IO.csproj.GenerateResource.Cache
+D:\Fatec 2017 - 2ºsem\Fábio - Linguagem de Programação\File IO\IO\IO\obj\Debug\IO.exe
+D:\Fatec 2017 - 2ºsem\Fábio - Linguagem de Programação\File IO\IO\IO\obj\Debug\IO.pdb

@@ -1,0 +1,9 @@
+c:\users\aluno - gti-ads\documents\visual studio 2015\Projects\projeto 4 - string - ativ 5\projeto 4 - string - ativ 5\bin\Debug\projeto 4 - string - ativ 5.exe.config
+C:\Users\Aluno - Gti-Ads\Documents\Visual Studio 2015\Projects\projeto 4 - string - ativ 5\projeto 4 - string - ativ 5\bin\Debug\projeto 4 - string - ativ 5.exe
+C:\Users\Aluno - Gti-Ads\Documents\Visual Studio 2015\Projects\projeto 4 - string - ativ 5\projeto 4 - string - ativ 5\bin\Debug\projeto 4 - string - ativ 5.pdb
+C:\Users\Aluno - Gti-Ads\Documents\Visual Studio 2015\Projects\projeto 4 - string - ativ 5\projeto 4 - string - ativ 5\obj\Debug\projeto 4 - string - ativ 5.csprojResolveAssemblyReference.cache
+C:\Users\Aluno - Gti-Ads\Documents\Visual Studio 2015\Projects\projeto 4 - string - ativ 5\projeto 4 - string - ativ 5\obj\Debug\projeto_4___string___ativ_5.Form1.resources
+C:\Users\Aluno - Gti-Ads\Documents\Visual Studio 2015\Projects\projeto 4 - string - ativ 5\projeto 4 - string - ativ 5\obj\Debug\projeto_4___string___ativ_5.Properties.Resources.resources
+C:\Users\Aluno - Gti-Ads\Documents\Visual Studio 2015\Projects\projeto 4 - string - ativ 5\projeto 4 - string - ativ 5\obj\Debug\projeto 4 - string - ativ 5.csproj.GenerateResource.Cache
+C:\Users\Aluno - Gti-Ads\Documents\Visual Studio 2015\Projects\projeto 4 - string - ativ 5\projeto 4 - string - ativ 5\obj\Debug\projeto 4 - string - ativ 5.exe
+C:\Users\Aluno - Gti-Ads\Documents\Visual Studio 2015\Projects\projeto 4 - string - ativ 5\projeto 4 - string - ativ 5\obj\Debug\projeto 4 - string - ativ 5.pdb

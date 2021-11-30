@@ -1,0 +1,14 @@
+C:\Users\FranciscoJhonata\Desktop\DAIANE\FATEC 2017\Fatec 2017 - 2ºsem\Fábio - Linguagem de Programação\Banco\Banco\bin\Debug\Banco.exe.config
+C:\Users\FranciscoJhonata\Desktop\DAIANE\FATEC 2017\Fatec 2017 - 2ºsem\Fábio - Linguagem de Programação\Banco\Banco\bin\Debug\Banco.exe
+C:\Users\FranciscoJhonata\Desktop\DAIANE\FATEC 2017\Fatec 2017 - 2ºsem\Fábio - Linguagem de Programação\Banco\Banco\bin\Debug\Banco.pdb
+C:\Users\FranciscoJhonata\Desktop\DAIANE\FATEC 2017\Fatec 2017 - 2ºsem\Fábio - Linguagem de Programação\Banco\Banco\obj\Debug\Banco.csprojResolveAssemblyReference.cache
+C:\Users\FranciscoJhonata\Desktop\DAIANE\FATEC 2017\Fatec 2017 - 2ºsem\Fábio - Linguagem de Programação\Banco\Banco\obj\Debug\Banco.Form1.resources
+C:\Users\FranciscoJhonata\Desktop\DAIANE\FATEC 2017\Fatec 2017 - 2ºsem\Fábio - Linguagem de Programação\Banco\Banco\obj\Debug\Banco.Properties.Resources.resources
+C:\Users\FranciscoJhonata\Desktop\DAIANE\FATEC 2017\Fatec 2017 - 2ºsem\Fábio - Linguagem de Programação\Banco\Banco\obj\Debug\Banco.csproj.GenerateResource.Cache
+C:\Users\FranciscoJhonata\Desktop\DAIANE\FATEC 2017\Fatec 2017 - 2ºsem\Fábio - Linguagem de Programação\Banco\Banco\obj\Debug\Banco.csproj.CoreCompileInputs.cache
+C:\Users\FranciscoJhonata\Desktop\DAIANE\FATEC 2017\Fatec 2017 - 2ºsem\Fábio - Linguagem de Programação\Banco\Banco\obj\Debug\Banco.exe
+C:\Users\FranciscoJhonata\Desktop\DAIANE\FATEC 2017\Fatec 2017 - 2ºsem\Fábio - Linguagem de Programação\Banco\Banco\obj\Debug\Banco.pdb
+C:\Users\FranciscoJhonata\Desktop\DAIANE\FATEC 2017\Fatec 2017 - 2ºsem\Fábio - Linguagem de Programação\Banco\Banco\obj\Debug\Banco.Form2.resources
+D:\Fatec 2017 - 2ºsem\Fábio - Linguagem de Programação\Banco\Banco\bin\Debug\Banco.exe.config
+D:\Fatec 2017 - 2ºsem\Fábio - Linguagem de Programação\Banco\Banco\obj\Debug\Banco.exe
+D:\Fatec 2017 - 2ºsem\Fábio - Linguagem de Programação\Banco\Banco\obj\Debug\Banco.pdb

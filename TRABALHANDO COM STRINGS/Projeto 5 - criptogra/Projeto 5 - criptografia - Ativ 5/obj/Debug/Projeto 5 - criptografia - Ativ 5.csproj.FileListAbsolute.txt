@@ -1,0 +1,10 @@
+C:\Users\Thiago\source\repos\Projeto 5 - criptografia - Ativ 5\Projeto 5 - criptografia - Ativ 5\bin\Debug\Projeto 5 - criptografia - Ativ 5.exe.config
+C:\Users\Thiago\source\repos\Projeto 5 - criptografia - Ativ 5\Projeto 5 - criptografia - Ativ 5\bin\Debug\Projeto 5 - criptografia - Ativ 5.exe
+C:\Users\Thiago\source\repos\Projeto 5 - criptografia - Ativ 5\Projeto 5 - criptografia - Ativ 5\bin\Debug\Projeto 5 - criptografia - Ativ 5.pdb
+C:\Users\Thiago\source\repos\Projeto 5 - criptografia - Ativ 5\Projeto 5 - criptografia - Ativ 5\obj\Debug\Projeto 5 - criptografia - Ativ 5.csprojResolveAssemblyReference.cache
+C:\Users\Thiago\source\repos\Projeto 5 - criptografia - Ativ 5\Projeto 5 - criptografia - Ativ 5\obj\Debug\Projeto_5___criptografia___Ativ_5.Form1.resources
+C:\Users\Thiago\source\repos\Projeto 5 - criptografia - Ativ 5\Projeto 5 - criptografia - Ativ 5\obj\Debug\Projeto_5___criptografia___Ativ_5.Properties.Resources.resources
+C:\Users\Thiago\source\repos\Projeto 5 - criptografia - Ativ 5\Projeto 5 - criptografia - Ativ 5\obj\Debug\Projeto 5 - criptografia - Ativ 5.csproj.GenerateResource.Cache
+C:\Users\Thiago\source\repos\Projeto 5 - criptografia - Ativ 5\Projeto 5 - criptografia - Ativ 5\obj\Debug\Projeto 5 - criptografia - Ativ 5.csproj.CoreCompileInputs.cache
+C:\Users\Thiago\source\repos\Projeto 5 - criptografia - Ativ 5\Projeto 5 - criptografia - Ativ 5\obj\Debug\Projeto 5 - criptografia - Ativ 5.exe
+C:\Users\Thiago\source\repos\Projeto 5 - criptografia - Ativ 5\Projeto 5 - criptografia - Ativ 5\obj\Debug\Projeto 5 - criptografia - Ativ 5.pdb

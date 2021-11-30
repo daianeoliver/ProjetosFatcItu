@@ -1,0 +1,9 @@
+D:\Fatec 2017 - 2ºsem\Fábio - Linguagem de Programação\Jogo_Dado\Jogo_Dado\bin\Debug\Jogo_Dado.exe.config
+D:\Fatec 2017 - 2ºsem\Fábio - Linguagem de Programação\Jogo_Dado\Jogo_Dado\obj\Debug\Jogo_Dado.csprojResolveAssemblyReference.cache
+D:\Fatec 2017 - 2ºsem\Fábio - Linguagem de Programação\Jogo_Dado\Jogo_Dado\obj\Debug\Jogo_Dado.Form1.resources
+D:\Fatec 2017 - 2ºsem\Fábio - Linguagem de Programação\Jogo_Dado\Jogo_Dado\obj\Debug\Jogo_Dado.Properties.Resources.resources
+D:\Fatec 2017 - 2ºsem\Fábio - Linguagem de Programação\Jogo_Dado\Jogo_Dado\obj\Debug\Jogo_Dado.csproj.GenerateResource.Cache
+D:\Fatec 2017 - 2ºsem\Fábio - Linguagem de Programação\Jogo_Dado\Jogo_Dado\bin\Debug\Jogo_Dado.exe
+D:\Fatec 2017 - 2ºsem\Fábio - Linguagem de Programação\Jogo_Dado\Jogo_Dado\bin\Debug\Jogo_Dado.pdb
+D:\Fatec 2017 - 2ºsem\Fábio - Linguagem de Programação\Jogo_Dado\Jogo_Dado\obj\Debug\Jogo_Dado.exe
+D:\Fatec 2017 - 2ºsem\Fábio - Linguagem de Programação\Jogo_Dado\Jogo_Dado\obj\Debug\Jogo_Dado.pdb

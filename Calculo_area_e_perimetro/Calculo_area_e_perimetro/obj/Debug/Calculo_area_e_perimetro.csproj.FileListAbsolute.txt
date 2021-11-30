@@ -1,0 +1,10 @@
+W:\Fatec 2017 - 2ºsem\Fábio - Linguagem de Programação\Calculo_area_e_perimetro\Calculo_area_e_perimetro\bin\Debug\Calculo_area_e_perimetro.exe.config
+W:\Fatec 2017 - 2ºsem\Fábio - Linguagem de Programação\Calculo_area_e_perimetro\Calculo_area_e_perimetro\bin\Debug\Calculo_area_e_perimetro.exe
+W:\Fatec 2017 - 2ºsem\Fábio - Linguagem de Programação\Calculo_area_e_perimetro\Calculo_area_e_perimetro\bin\Debug\Calculo_area_e_perimetro.pdb
+W:\Fatec 2017 - 2ºsem\Fábio - Linguagem de Programação\Calculo_area_e_perimetro\Calculo_area_e_perimetro\obj\Debug\Calculo_area_e_perimetro.csprojResolveAssemblyReference.cache
+W:\Fatec 2017 - 2ºsem\Fábio - Linguagem de Programação\Calculo_area_e_perimetro\Calculo_area_e_perimetro\obj\Debug\Calculo_area_e_perimetro.Form1.resources
+W:\Fatec 2017 - 2ºsem\Fábio - Linguagem de Programação\Calculo_area_e_perimetro\Calculo_area_e_perimetro\obj\Debug\Calculo_area_e_perimetro.Properties.Resources.resources
+W:\Fatec 2017 - 2ºsem\Fábio - Linguagem de Programação\Calculo_area_e_perimetro\Calculo_area_e_perimetro\obj\Debug\Calculo_area_e_perimetro.csproj.GenerateResource.Cache
+W:\Fatec 2017 - 2ºsem\Fábio - Linguagem de Programação\Calculo_area_e_perimetro\Calculo_area_e_perimetro\obj\Debug\Calculo_area_e_perimetro.csproj.CoreCompileInputs.cache
+W:\Fatec 2017 - 2ºsem\Fábio - Linguagem de Programação\Calculo_area_e_perimetro\Calculo_area_e_perimetro\obj\Debug\Calculo_area_e_perimetro.exe
+W:\Fatec 2017 - 2ºsem\Fábio - Linguagem de Programação\Calculo_area_e_perimetro\Calculo_area_e_perimetro\obj\Debug\Calculo_area_e_perimetro.pdb

@@ -1,0 +1,19 @@
+c:\users\aluno - gti-ads\documents\visual studio 2015\Projects\thiruli\thiruli\bin\Debug\thiruli.exe.config
+c:\users\aluno - gti-ads\documents\visual studio 2015\Projects\thiruli\thiruli\bin\Debug\thiruli.exe
+c:\users\aluno - gti-ads\documents\visual studio 2015\Projects\thiruli\thiruli\bin\Debug\thiruli.pdb
+c:\users\aluno - gti-ads\documents\visual studio 2015\Projects\thiruli\thiruli\obj\Debug\thiruli.csprojResolveAssemblyReference.cache
+c:\users\aluno - gti-ads\documents\visual studio 2015\Projects\thiruli\thiruli\obj\Debug\thiruli.Form1.resources
+c:\users\aluno - gti-ads\documents\visual studio 2015\Projects\thiruli\thiruli\obj\Debug\thiruli.Properties.Resources.resources
+c:\users\aluno - gti-ads\documents\visual studio 2015\Projects\thiruli\thiruli\obj\Debug\thiruli.csproj.GenerateResource.Cache
+c:\users\aluno - gti-ads\documents\visual studio 2015\Projects\thiruli\thiruli\obj\Debug\thiruli.exe
+c:\users\aluno - gti-ads\documents\visual studio 2015\Projects\thiruli\thiruli\obj\Debug\thiruli.pdb
+E:\Fatec 2017 - 2ºsem\Fábio - Linguagem de Programação\thiruli\thiruli\bin\Debug\thiruli.exe.config
+E:\Fatec 2017 - 2ºsem\Fábio - Linguagem de Programação\thiruli\thiruli\bin\Debug\thiruli.exe
+E:\Fatec 2017 - 2ºsem\Fábio - Linguagem de Programação\thiruli\thiruli\bin\Debug\thiruli.pdb
+E:\Fatec 2017 - 2ºsem\Fábio - Linguagem de Programação\thiruli\thiruli\obj\Debug\thiruli.csprojResolveAssemblyReference.cache
+E:\Fatec 2017 - 2ºsem\Fábio - Linguagem de Programação\thiruli\thiruli\obj\Debug\thiruli.Form1.resources
+E:\Fatec 2017 - 2ºsem\Fábio - Linguagem de Programação\thiruli\thiruli\obj\Debug\thiruli.Properties.Resources.resources
+E:\Fatec 2017 - 2ºsem\Fábio - Linguagem de Programação\thiruli\thiruli\obj\Debug\thiruli.csproj.GenerateResource.Cache
+E:\Fatec 2017 - 2ºsem\Fábio - Linguagem de Programação\thiruli\thiruli\obj\Debug\thiruli.csproj.CoreCompileInputs.cache
+E:\Fatec 2017 - 2ºsem\Fábio - Linguagem de Programação\thiruli\thiruli\obj\Debug\thiruli.exe
+E:\Fatec 2017 - 2ºsem\Fábio - Linguagem de Programação\thiruli\thiruli\obj\Debug\thiruli.pdb

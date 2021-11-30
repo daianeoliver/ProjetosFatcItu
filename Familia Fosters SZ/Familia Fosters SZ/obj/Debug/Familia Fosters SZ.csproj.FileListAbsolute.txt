@@ -1,0 +1,9 @@
+c:\users\aluno - gti-ads\documents\visual studio 2015\Projects\Familia Fosters SZ\Familia Fosters SZ\bin\Debug\Familia Fosters SZ.exe.config
+c:\users\aluno - gti-ads\documents\visual studio 2015\Projects\Familia Fosters SZ\Familia Fosters SZ\obj\Debug\Familia Fosters SZ.csprojResolveAssemblyReference.cache
+c:\users\aluno - gti-ads\documents\visual studio 2015\Projects\Familia Fosters SZ\Familia Fosters SZ\obj\Debug\Familia_Fosters_SZ.Form1.resources
+c:\users\aluno - gti-ads\documents\visual studio 2015\Projects\Familia Fosters SZ\Familia Fosters SZ\obj\Debug\Familia_Fosters_SZ.Properties.Resources.resources
+c:\users\aluno - gti-ads\documents\visual studio 2015\Projects\Familia Fosters SZ\Familia Fosters SZ\obj\Debug\Familia Fosters SZ.csproj.GenerateResource.Cache
+c:\users\aluno - gti-ads\documents\visual studio 2015\Projects\Familia Fosters SZ\Familia Fosters SZ\bin\Debug\Familia Fosters SZ.exe
+c:\users\aluno - gti-ads\documents\visual studio 2015\Projects\Familia Fosters SZ\Familia Fosters SZ\bin\Debug\Familia Fosters SZ.pdb
+c:\users\aluno - gti-ads\documents\visual studio 2015\Projects\Familia Fosters SZ\Familia Fosters SZ\obj\Debug\Familia Fosters SZ.exe
+c:\users\aluno - gti-ads\documents\visual studio 2015\Projects\Familia Fosters SZ\Familia Fosters SZ\obj\Debug\Familia Fosters SZ.pdb

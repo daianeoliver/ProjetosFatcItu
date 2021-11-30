@@ -1,0 +1,9 @@
+D:\Fatec 2017 - 2ºsem\Fábio - Linguagem de Programação\Visualizador_comandos_SQL\Visualizador_comandos_SQL\bin\Debug\Visualizador_comandos_SQL.exe.config
+D:\Fatec 2017 - 2ºsem\Fábio - Linguagem de Programação\Visualizador_comandos_SQL\Visualizador_comandos_SQL\bin\Debug\Visualizador_comandos_SQL.exe
+D:\Fatec 2017 - 2ºsem\Fábio - Linguagem de Programação\Visualizador_comandos_SQL\Visualizador_comandos_SQL\bin\Debug\Visualizador_comandos_SQL.pdb
+D:\Fatec 2017 - 2ºsem\Fábio - Linguagem de Programação\Visualizador_comandos_SQL\Visualizador_comandos_SQL\obj\Debug\Visualizador_comandos_SQL.csprojResolveAssemblyReference.cache
+D:\Fatec 2017 - 2ºsem\Fábio - Linguagem de Programação\Visualizador_comandos_SQL\Visualizador_comandos_SQL\obj\Debug\Visualizador_comandos_SQL.Form1.resources
+D:\Fatec 2017 - 2ºsem\Fábio - Linguagem de Programação\Visualizador_comandos_SQL\Visualizador_comandos_SQL\obj\Debug\Visualizador_comandos_SQL.Properties.Resources.resources
+D:\Fatec 2017 - 2ºsem\Fábio - Linguagem de Programação\Visualizador_comandos_SQL\Visualizador_comandos_SQL\obj\Debug\Visualizador_comandos_SQL.csproj.GenerateResource.Cache
+D:\Fatec 2017 - 2ºsem\Fábio - Linguagem de Programação\Visualizador_comandos_SQL\Visualizador_comandos_SQL\obj\Debug\Visualizador_comandos_SQL.exe
+D:\Fatec 2017 - 2ºsem\Fábio - Linguagem de Programação\Visualizador_comandos_SQL\Visualizador_comandos_SQL\obj\Debug\Visualizador_comandos_SQL.pdb

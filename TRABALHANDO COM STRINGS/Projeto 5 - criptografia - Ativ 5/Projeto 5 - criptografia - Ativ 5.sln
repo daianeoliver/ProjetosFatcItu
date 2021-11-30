@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.15
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Projeto 5 - criptografia - Ativ 5", "Projeto 5 - criptografia - Ativ 5\Projeto 5 - criptografia - Ativ 5.csproj", "{004F15DB-692C-45BB-81AF-E30AE72C1098}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{004F15DB-692C-45BB-81AF-E30AE72C1098}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{004F15DB-692C-45BB-81AF-E30AE72C1098}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{004F15DB-692C-45BB-81AF-E30AE72C1098}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{004F15DB-692C-45BB-81AF-E30AE72C1098}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CCDA292A-2FD7-479C-AD97-C9EE348ACAD1}
+	EndGlobalSection
+EndGlobal

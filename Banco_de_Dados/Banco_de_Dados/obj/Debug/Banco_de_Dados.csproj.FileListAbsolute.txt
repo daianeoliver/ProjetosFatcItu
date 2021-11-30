@@ -1,0 +1,11 @@
+D:\Fatec 2017 - 2ºsem\Fábio - Linguagem de Programação\Banco_de_Dados\Banco_de_Dados\bin\Debug\Banco_de_Dados.exe.config
+D:\Fatec 2017 - 2ºsem\Fábio - Linguagem de Programação\Banco_de_Dados\Banco_de_Dados\bin\Debug\Banco_de_Dados.exe
+D:\Fatec 2017 - 2ºsem\Fábio - Linguagem de Programação\Banco_de_Dados\Banco_de_Dados\bin\Debug\Banco_de_Dados.pdb
+D:\Fatec 2017 - 2ºsem\Fábio - Linguagem de Programação\Banco_de_Dados\Banco_de_Dados\obj\Debug\Banco_de_Dados.csprojResolveAssemblyReference.cache
+D:\Fatec 2017 - 2ºsem\Fábio - Linguagem de Programação\Banco_de_Dados\Banco_de_Dados\obj\Debug\Banco_de_Dados.Form1.resources
+D:\Fatec 2017 - 2ºsem\Fábio - Linguagem de Programação\Banco_de_Dados\Banco_de_Dados\obj\Debug\Banco_de_Dados.Properties.Resources.resources
+D:\Fatec 2017 - 2ºsem\Fábio - Linguagem de Programação\Banco_de_Dados\Banco_de_Dados\obj\Debug\Banco_de_Dados.csproj.GenerateResource.Cache
+D:\Fatec 2017 - 2ºsem\Fábio - Linguagem de Programação\Banco_de_Dados\Banco_de_Dados\obj\Debug\Banco_de_Dados.exe
+D:\Fatec 2017 - 2ºsem\Fábio - Linguagem de Programação\Banco_de_Dados\Banco_de_Dados\obj\Debug\Banco_de_Dados.pdb
+D:\Fatec 2017 - 2ºsem\Fábio - Linguagem de Programação\Banco_de_Dados\Banco_de_Dados\obj\Debug\Banco_de_Dados.Form3.resources
+D:\Fatec 2017 - 2ºsem\Fábio - Linguagem de Programação\Banco_de_Dados\Banco_de_Dados\obj\Debug\Banco_de_Dados.Ordem.resources

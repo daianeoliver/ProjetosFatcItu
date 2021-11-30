@@ -1,0 +1,10 @@
+W:\Fatec 2017 - 2ºsem\Fábio - Linguagem de Programação\Conta de Telefone\Conta de Telefone\bin\Debug\Conta de Telefone.exe.config
+W:\Fatec 2017 - 2ºsem\Fábio - Linguagem de Programação\Conta de Telefone\Conta de Telefone\bin\Debug\Conta de Telefone.exe
+W:\Fatec 2017 - 2ºsem\Fábio - Linguagem de Programação\Conta de Telefone\Conta de Telefone\bin\Debug\Conta de Telefone.pdb
+W:\Fatec 2017 - 2ºsem\Fábio - Linguagem de Programação\Conta de Telefone\Conta de Telefone\obj\Debug\Conta de Telefone.csprojResolveAssemblyReference.cache
+W:\Fatec 2017 - 2ºsem\Fábio - Linguagem de Programação\Conta de Telefone\Conta de Telefone\obj\Debug\Conta_de_Telefone.Form1.resources
+W:\Fatec 2017 - 2ºsem\Fábio - Linguagem de Programação\Conta de Telefone\Conta de Telefone\obj\Debug\Conta_de_Telefone.Properties.Resources.resources
+W:\Fatec 2017 - 2ºsem\Fábio - Linguagem de Programação\Conta de Telefone\Conta de Telefone\obj\Debug\Conta de Telefone.csproj.GenerateResource.Cache
+W:\Fatec 2017 - 2ºsem\Fábio - Linguagem de Programação\Conta de Telefone\Conta de Telefone\obj\Debug\Conta de Telefone.csproj.CoreCompileInputs.cache
+W:\Fatec 2017 - 2ºsem\Fábio - Linguagem de Programação\Conta de Telefone\Conta de Telefone\obj\Debug\Conta de Telefone.exe
+W:\Fatec 2017 - 2ºsem\Fábio - Linguagem de Programação\Conta de Telefone\Conta de Telefone\obj\Debug\Conta de Telefone.pdb

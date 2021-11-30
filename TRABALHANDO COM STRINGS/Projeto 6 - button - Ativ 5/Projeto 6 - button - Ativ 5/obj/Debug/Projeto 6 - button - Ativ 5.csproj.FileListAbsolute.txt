@@ -1,0 +1,20 @@
+C:\Users\Thiago\source\repos\Projeto 6 - button - Ativ 5\Projeto 6 - button - Ativ 5\bin\Debug\Projeto 6 - button - Ativ 5.exe.config
+C:\Users\Thiago\source\repos\Projeto 6 - button - Ativ 5\Projeto 6 - button - Ativ 5\bin\Debug\Projeto 6 - button - Ativ 5.exe
+C:\Users\Thiago\source\repos\Projeto 6 - button - Ativ 5\Projeto 6 - button - Ativ 5\bin\Debug\Projeto 6 - button - Ativ 5.pdb
+C:\Users\Thiago\source\repos\Projeto 6 - button - Ativ 5\Projeto 6 - button - Ativ 5\obj\Debug\Projeto 6 - button - Ativ 5.csprojResolveAssemblyReference.cache
+C:\Users\Thiago\source\repos\Projeto 6 - button - Ativ 5\Projeto 6 - button - Ativ 5\obj\Debug\Projeto_6___button___Ativ_5.Form1.resources
+C:\Users\Thiago\source\repos\Projeto 6 - button - Ativ 5\Projeto 6 - button - Ativ 5\obj\Debug\Projeto_6___button___Ativ_5.Properties.Resources.resources
+C:\Users\Thiago\source\repos\Projeto 6 - button - Ativ 5\Projeto 6 - button - Ativ 5\obj\Debug\Projeto 6 - button - Ativ 5.csproj.GenerateResource.Cache
+C:\Users\Thiago\source\repos\Projeto 6 - button - Ativ 5\Projeto 6 - button - Ativ 5\obj\Debug\Projeto 6 - button - Ativ 5.csproj.CoreCompileInputs.cache
+C:\Users\Thiago\source\repos\Projeto 6 - button - Ativ 5\Projeto 6 - button - Ativ 5\obj\Debug\Projeto 6 - button - Ativ 5.exe
+C:\Users\Thiago\source\repos\Projeto 6 - button - Ativ 5\Projeto 6 - button - Ativ 5\obj\Debug\Projeto 6 - button - Ativ 5.pdb
+C:\Users\FranciscoJhonata\Desktop\DAIANE\FATEC 2017\Fatec 2017 - 2ºsem\Fábio - Linguagem de Programação\TRABALHANDO COM STRINGS\Projeto 6 - button - Ativ 5\Projeto 6 - button - Ativ 5\obj\Debug\Projeto 6 - button - Ativ 5.csprojResolveAssemblyReference.cache
+C:\Users\FranciscoJhonata\Desktop\DAIANE\FATEC 2017\Fatec 2017 - 2ºsem\Fábio - Linguagem de Programação\TRABALHANDO COM STRINGS\Projeto 6 - button - Ativ 5\Projeto 6 - button - Ativ 5\obj\Debug\Projeto_6___button___Ativ_5.Form1.resources
+C:\Users\FranciscoJhonata\Desktop\DAIANE\FATEC 2017\Fatec 2017 - 2ºsem\Fábio - Linguagem de Programação\TRABALHANDO COM STRINGS\Projeto 6 - button - Ativ 5\Projeto 6 - button - Ativ 5\obj\Debug\Projeto_6___button___Ativ_5.Properties.Resources.resources
+C:\Users\FranciscoJhonata\Desktop\DAIANE\FATEC 2017\Fatec 2017 - 2ºsem\Fábio - Linguagem de Programação\TRABALHANDO COM STRINGS\Projeto 6 - button - Ativ 5\Projeto 6 - button - Ativ 5\obj\Debug\Projeto 6 - button - Ativ 5.csproj.GenerateResource.Cache
+C:\Users\FranciscoJhonata\Desktop\DAIANE\FATEC 2017\Fatec 2017 - 2ºsem\Fábio - Linguagem de Programação\TRABALHANDO COM STRINGS\Projeto 6 - button - Ativ 5\Projeto 6 - button - Ativ 5\obj\Debug\Projeto 6 - button - Ativ 5.csproj.CoreCompileInputs.cache
+C:\Users\FranciscoJhonata\Desktop\DAIANE\FATEC 2017\Fatec 2017 - 2ºsem\Fábio - Linguagem de Programação\TRABALHANDO COM STRINGS\Projeto 6 - button - Ativ 5\Projeto 6 - button - Ativ 5\obj\Debug\Projeto 6 - button - Ativ 5.exe
+C:\Users\FranciscoJhonata\Desktop\DAIANE\FATEC 2017\Fatec 2017 - 2ºsem\Fábio - Linguagem de Programação\TRABALHANDO COM STRINGS\Projeto 6 - button - Ativ 5\Projeto 6 - button - Ativ 5\obj\Debug\Projeto 6 - button - Ativ 5.pdb
+C:\Users\FranciscoJhonata\Desktop\DAIANE\FATEC 2017\Fatec 2017 - 2ºsem\Fábio - Linguagem de Programação\TRABALHANDO COM STRINGS\Projeto 6 - button - Ativ 5\Projeto 6 - button - Ativ 5\bin\Debug\Projeto 6 - button - Ativ 5.exe.config
+C:\Users\FranciscoJhonata\Desktop\DAIANE\FATEC 2017\Fatec 2017 - 2ºsem\Fábio - Linguagem de Programação\TRABALHANDO COM STRINGS\Projeto 6 - button - Ativ 5\Projeto 6 - button - Ativ 5\bin\Debug\Projeto 6 - button - Ativ 5.exe
+C:\Users\FranciscoJhonata\Desktop\DAIANE\FATEC 2017\Fatec 2017 - 2ºsem\Fábio - Linguagem de Programação\TRABALHANDO COM STRINGS\Projeto 6 - button - Ativ 5\Projeto 6 - button - Ativ 5\bin\Debug\Projeto 6 - button - Ativ 5.pdb

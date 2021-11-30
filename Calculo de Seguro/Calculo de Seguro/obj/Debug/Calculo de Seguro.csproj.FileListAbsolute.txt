@@ -1,0 +1,19 @@
+W:\Fatec 2017 - 2ºsem\Fábio - Linguagem de Programação\Calculo de Seguro\Calculo de Seguro\bin\Debug\Calculo de Seguro.exe.config
+W:\Fatec 2017 - 2ºsem\Fábio - Linguagem de Programação\Calculo de Seguro\Calculo de Seguro\bin\Debug\Calculo de Seguro.exe
+W:\Fatec 2017 - 2ºsem\Fábio - Linguagem de Programação\Calculo de Seguro\Calculo de Seguro\bin\Debug\Calculo de Seguro.pdb
+W:\Fatec 2017 - 2ºsem\Fábio - Linguagem de Programação\Calculo de Seguro\Calculo de Seguro\obj\Debug\Calculo de Seguro.csprojResolveAssemblyReference.cache
+W:\Fatec 2017 - 2ºsem\Fábio - Linguagem de Programação\Calculo de Seguro\Calculo de Seguro\obj\Debug\Calculo_de_Seguro.Form1.resources
+W:\Fatec 2017 - 2ºsem\Fábio - Linguagem de Programação\Calculo de Seguro\Calculo de Seguro\obj\Debug\Calculo_de_Seguro.Properties.Resources.resources
+W:\Fatec 2017 - 2ºsem\Fábio - Linguagem de Programação\Calculo de Seguro\Calculo de Seguro\obj\Debug\Calculo de Seguro.csproj.GenerateResource.Cache
+W:\Fatec 2017 - 2ºsem\Fábio - Linguagem de Programação\Calculo de Seguro\Calculo de Seguro\obj\Debug\Calculo de Seguro.csproj.CoreCompileInputs.cache
+W:\Fatec 2017 - 2ºsem\Fábio - Linguagem de Programação\Calculo de Seguro\Calculo de Seguro\obj\Debug\Calculo de Seguro.exe
+W:\Fatec 2017 - 2ºsem\Fábio - Linguagem de Programação\Calculo de Seguro\Calculo de Seguro\obj\Debug\Calculo de Seguro.pdb
+D:\Fatec 2017 - 2ºsem\Fábio - Linguagem de Programação\Calculo de Seguro\Calculo de Seguro\bin\Debug\Calculo de Seguro.exe.config
+D:\Fatec 2017 - 2ºsem\Fábio - Linguagem de Programação\Calculo de Seguro\Calculo de Seguro\obj\Debug\Calculo de Seguro.exe
+D:\Fatec 2017 - 2ºsem\Fábio - Linguagem de Programação\Calculo de Seguro\Calculo de Seguro\obj\Debug\Calculo de Seguro.pdb
+D:\Fatec 2017 - 2ºsem\Fábio - Linguagem de Programação\Calculo de Seguro\Calculo de Seguro\bin\Debug\Calculo de Seguro.exe
+D:\Fatec 2017 - 2ºsem\Fábio - Linguagem de Programação\Calculo de Seguro\Calculo de Seguro\bin\Debug\Calculo de Seguro.pdb
+D:\Fatec 2017 - 2ºsem\Fábio - Linguagem de Programação\Calculo de Seguro\Calculo de Seguro\obj\Debug\Calculo de Seguro.csprojResolveAssemblyReference.cache
+D:\Fatec 2017 - 2ºsem\Fábio - Linguagem de Programação\Calculo de Seguro\Calculo de Seguro\obj\Debug\Calculo_de_Seguro.Form1.resources
+D:\Fatec 2017 - 2ºsem\Fábio - Linguagem de Programação\Calculo de Seguro\Calculo de Seguro\obj\Debug\Calculo_de_Seguro.Properties.Resources.resources
+D:\Fatec 2017 - 2ºsem\Fábio - Linguagem de Programação\Calculo de Seguro\Calculo de Seguro\obj\Debug\Calculo de Seguro.csproj.GenerateResource.Cache

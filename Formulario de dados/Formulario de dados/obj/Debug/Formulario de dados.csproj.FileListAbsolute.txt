@@ -1,0 +1,12 @@
+C:\Users\FranciscoJhonata\Desktop\DAIANE\FATEC 2017\Fatec 2017 - 2ºsem\Fábio - Linguagem de Programação\Formulario de dados\Formulario de dados\obj\Debug\Formulario de dados.csprojResolveAssemblyReference.cache
+C:\Users\FranciscoJhonata\Desktop\DAIANE\FATEC 2017\Fatec 2017 - 2ºsem\Fábio - Linguagem de Programação\Formulario de dados\Formulario de dados\obj\Debug\Formulario_de_dados.frmEntrada.resources
+C:\Users\FranciscoJhonata\Desktop\DAIANE\FATEC 2017\Fatec 2017 - 2ºsem\Fábio - Linguagem de Programação\Formulario de dados\Formulario de dados\obj\Debug\Formulario_de_dados.frmMenu.resources
+C:\Users\FranciscoJhonata\Desktop\DAIANE\FATEC 2017\Fatec 2017 - 2ºsem\Fábio - Linguagem de Programação\Formulario de dados\Formulario de dados\obj\Debug\Formulario_de_dados.frmAbertura.resources
+C:\Users\FranciscoJhonata\Desktop\DAIANE\FATEC 2017\Fatec 2017 - 2ºsem\Fábio - Linguagem de Programação\Formulario de dados\Formulario de dados\obj\Debug\Formulario_de_dados.Properties.Resources.resources
+C:\Users\FranciscoJhonata\Desktop\DAIANE\FATEC 2017\Fatec 2017 - 2ºsem\Fábio - Linguagem de Programação\Formulario de dados\Formulario de dados\obj\Debug\Formulario de dados.csproj.GenerateResource.Cache
+C:\Users\FranciscoJhonata\Desktop\DAIANE\FATEC 2017\Fatec 2017 - 2ºsem\Fábio - Linguagem de Programação\Formulario de dados\Formulario de dados\obj\Debug\Formulario de dados.csproj.CoreCompileInputs.cache
+C:\Users\FranciscoJhonata\Desktop\DAIANE\FATEC 2017\Fatec 2017 - 2ºsem\Fábio - Linguagem de Programação\Formulario de dados\Formulario de dados\bin\Debug\Formulario de dados.exe.config
+C:\Users\FranciscoJhonata\Desktop\DAIANE\FATEC 2017\Fatec 2017 - 2ºsem\Fábio - Linguagem de Programação\Formulario de dados\Formulario de dados\bin\Debug\Formulario de dados.exe
+C:\Users\FranciscoJhonata\Desktop\DAIANE\FATEC 2017\Fatec 2017 - 2ºsem\Fábio - Linguagem de Programação\Formulario de dados\Formulario de dados\bin\Debug\Formulario de dados.pdb
+C:\Users\FranciscoJhonata\Desktop\DAIANE\FATEC 2017\Fatec 2017 - 2ºsem\Fábio - Linguagem de Programação\Formulario de dados\Formulario de dados\obj\Debug\Formulario de dados.exe
+C:\Users\FranciscoJhonata\Desktop\DAIANE\FATEC 2017\Fatec 2017 - 2ºsem\Fábio - Linguagem de Programação\Formulario de dados\Formulario de dados\obj\Debug\Formulario de dados.pdb

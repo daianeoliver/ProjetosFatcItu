@@ -1,0 +1,9 @@
+C:\Users\Thiago\source\repos\Projeto4 - Substring - Ativ 5\Projeto4 - Substring - Ativ 5\bin\Debug\Projeto4 - Substring - Ativ 5.exe.config
+C:\Users\Thiago\source\repos\Projeto4 - Substring - Ativ 5\Projeto4 - Substring - Ativ 5\bin\Debug\Projeto4 - Substring - Ativ 5.exe
+C:\Users\Thiago\source\repos\Projeto4 - Substring - Ativ 5\Projeto4 - Substring - Ativ 5\bin\Debug\Projeto4 - Substring - Ativ 5.pdb
+C:\Users\Thiago\source\repos\Projeto4 - Substring - Ativ 5\Projeto4 - Substring - Ativ 5\obj\Debug\Projeto4___Substring___Ativ_5.Form1.resources
+C:\Users\Thiago\source\repos\Projeto4 - Substring - Ativ 5\Projeto4 - Substring - Ativ 5\obj\Debug\Projeto4___Substring___Ativ_5.Properties.Resources.resources
+C:\Users\Thiago\source\repos\Projeto4 - Substring - Ativ 5\Projeto4 - Substring - Ativ 5\obj\Debug\Projeto4 - Substring - Ativ 5.csproj.GenerateResource.Cache
+C:\Users\Thiago\source\repos\Projeto4 - Substring - Ativ 5\Projeto4 - Substring - Ativ 5\obj\Debug\Projeto4 - Substring - Ativ 5.csproj.CoreCompileInputs.cache
+C:\Users\Thiago\source\repos\Projeto4 - Substring - Ativ 5\Projeto4 - Substring - Ativ 5\obj\Debug\Projeto4 - Substring - Ativ 5.exe
+C:\Users\Thiago\source\repos\Projeto4 - Substring - Ativ 5\Projeto4 - Substring - Ativ 5\obj\Debug\Projeto4 - Substring - Ativ 5.pdb

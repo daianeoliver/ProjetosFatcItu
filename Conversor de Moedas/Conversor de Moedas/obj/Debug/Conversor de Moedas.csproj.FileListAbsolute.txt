@@ -1,0 +1,10 @@
+W:\Fatec 2017 - 2ºsem\Fábio - Linguagem de Programação\Conversor de Moedas\Conversor de Moedas\bin\Debug\Conversor de Moedas.exe.config
+W:\Fatec 2017 - 2ºsem\Fábio - Linguagem de Programação\Conversor de Moedas\Conversor de Moedas\bin\Debug\Conversor de Moedas.exe
+W:\Fatec 2017 - 2ºsem\Fábio - Linguagem de Programação\Conversor de Moedas\Conversor de Moedas\bin\Debug\Conversor de Moedas.pdb
+W:\Fatec 2017 - 2ºsem\Fábio - Linguagem de Programação\Conversor de Moedas\Conversor de Moedas\obj\Debug\Conversor de Moedas.csprojResolveAssemblyReference.cache
+W:\Fatec 2017 - 2ºsem\Fábio - Linguagem de Programação\Conversor de Moedas\Conversor de Moedas\obj\Debug\Conversor_de_Moedas.Form1.resources
+W:\Fatec 2017 - 2ºsem\Fábio - Linguagem de Programação\Conversor de Moedas\Conversor de Moedas\obj\Debug\Conversor_de_Moedas.Properties.Resources.resources
+W:\Fatec 2017 - 2ºsem\Fábio - Linguagem de Programação\Conversor de Moedas\Conversor de Moedas\obj\Debug\Conversor de Moedas.csproj.GenerateResource.Cache
+W:\Fatec 2017 - 2ºsem\Fábio - Linguagem de Programação\Conversor de Moedas\Conversor de Moedas\obj\Debug\Conversor de Moedas.csproj.CoreCompileInputs.cache
+W:\Fatec 2017 - 2ºsem\Fábio - Linguagem de Programação\Conversor de Moedas\Conversor de Moedas\obj\Debug\Conversor de Moedas.exe
+W:\Fatec 2017 - 2ºsem\Fábio - Linguagem de Programação\Conversor de Moedas\Conversor de Moedas\obj\Debug\Conversor de Moedas.pdb

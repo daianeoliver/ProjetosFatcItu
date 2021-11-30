@@ -1,0 +1,10 @@
+E:\Fatec 2017 - 2ºsem\Fábio - Linguagem de Programação\Supermercado_X\Supermercado_X\bin\Debug\Supermercado_X.exe.config
+E:\Fatec 2017 - 2ºsem\Fábio - Linguagem de Programação\Supermercado_X\Supermercado_X\bin\Debug\Supermercado_X.exe
+E:\Fatec 2017 - 2ºsem\Fábio - Linguagem de Programação\Supermercado_X\Supermercado_X\bin\Debug\Supermercado_X.pdb
+E:\Fatec 2017 - 2ºsem\Fábio - Linguagem de Programação\Supermercado_X\Supermercado_X\obj\Debug\Supermercado_X.csprojResolveAssemblyReference.cache
+E:\Fatec 2017 - 2ºsem\Fábio - Linguagem de Programação\Supermercado_X\Supermercado_X\obj\Debug\Supermercado_X.Form1.resources
+E:\Fatec 2017 - 2ºsem\Fábio - Linguagem de Programação\Supermercado_X\Supermercado_X\obj\Debug\Supermercado_X.Properties.Resources.resources
+E:\Fatec 2017 - 2ºsem\Fábio - Linguagem de Programação\Supermercado_X\Supermercado_X\obj\Debug\Supermercado_X.csproj.GenerateResource.Cache
+E:\Fatec 2017 - 2ºsem\Fábio - Linguagem de Programação\Supermercado_X\Supermercado_X\obj\Debug\Supermercado_X.csproj.CoreCompileInputs.cache
+E:\Fatec 2017 - 2ºsem\Fábio - Linguagem de Programação\Supermercado_X\Supermercado_X\obj\Debug\Supermercado_X.exe
+E:\Fatec 2017 - 2ºsem\Fábio - Linguagem de Programação\Supermercado_X\Supermercado_X\obj\Debug\Supermercado_X.pdb

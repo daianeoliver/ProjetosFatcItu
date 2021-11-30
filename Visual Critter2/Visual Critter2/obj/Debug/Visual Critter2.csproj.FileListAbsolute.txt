@@ -1,0 +1,9 @@
+D:\Fatec 2017 - 2ºsem\Fábio - Linguagem de Processos\Visual Critter2\Visual Critter2\bin\Debug\Visual Critter2.exe.config
+D:\Fatec 2017 - 2ºsem\Fábio - Linguagem de Processos\Visual Critter2\Visual Critter2\bin\Debug\Visual Critter2.exe
+D:\Fatec 2017 - 2ºsem\Fábio - Linguagem de Processos\Visual Critter2\Visual Critter2\bin\Debug\Visual Critter2.pdb
+D:\Fatec 2017 - 2ºsem\Fábio - Linguagem de Processos\Visual Critter2\Visual Critter2\obj\Debug\Visual Critter2.csprojResolveAssemblyReference.cache
+D:\Fatec 2017 - 2ºsem\Fábio - Linguagem de Processos\Visual Critter2\Visual Critter2\obj\Debug\Visual_Critter2.Form1.resources
+D:\Fatec 2017 - 2ºsem\Fábio - Linguagem de Processos\Visual Critter2\Visual Critter2\obj\Debug\Visual_Critter2.Properties.Resources.resources
+D:\Fatec 2017 - 2ºsem\Fábio - Linguagem de Processos\Visual Critter2\Visual Critter2\obj\Debug\Visual Critter2.csproj.GenerateResource.Cache
+D:\Fatec 2017 - 2ºsem\Fábio - Linguagem de Processos\Visual Critter2\Visual Critter2\obj\Debug\Visual Critter2.exe
+D:\Fatec 2017 - 2ºsem\Fábio - Linguagem de Processos\Visual Critter2\Visual Critter2\obj\Debug\Visual Critter2.pdb

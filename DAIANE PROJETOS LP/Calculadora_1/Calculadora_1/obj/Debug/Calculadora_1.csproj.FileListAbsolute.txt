@@ -1,0 +1,10 @@
+C:\Users\FranciscoJhonata\Documents\DAIANE PROJETOS LP\Calculadora_1\Calculadora_1\bin\Debug\Calculadora_1.exe.config
+C:\Users\FranciscoJhonata\Documents\DAIANE PROJETOS LP\Calculadora_1\Calculadora_1\bin\Debug\Calculadora_1.exe
+C:\Users\FranciscoJhonata\Documents\DAIANE PROJETOS LP\Calculadora_1\Calculadora_1\bin\Debug\Calculadora_1.pdb
+C:\Users\FranciscoJhonata\Documents\DAIANE PROJETOS LP\Calculadora_1\Calculadora_1\obj\Debug\Calculadora_1.csprojResolveAssemblyReference.cache
+C:\Users\FranciscoJhonata\Documents\DAIANE PROJETOS LP\Calculadora_1\Calculadora_1\obj\Debug\Calculadora_1.Form1.resources
+C:\Users\FranciscoJhonata\Documents\DAIANE PROJETOS LP\Calculadora_1\Calculadora_1\obj\Debug\Calculadora_1.Properties.Resources.resources
+C:\Users\FranciscoJhonata\Documents\DAIANE PROJETOS LP\Calculadora_1\Calculadora_1\obj\Debug\Calculadora_1.csproj.GenerateResource.Cache
+C:\Users\FranciscoJhonata\Documents\DAIANE PROJETOS LP\Calculadora_1\Calculadora_1\obj\Debug\Calculadora_1.csproj.CoreCompileInputs.cache
+C:\Users\FranciscoJhonata\Documents\DAIANE PROJETOS LP\Calculadora_1\Calculadora_1\obj\Debug\Calculadora_1.exe
+C:\Users\FranciscoJhonata\Documents\DAIANE PROJETOS LP\Calculadora_1\Calculadora_1\obj\Debug\Calculadora_1.pdb

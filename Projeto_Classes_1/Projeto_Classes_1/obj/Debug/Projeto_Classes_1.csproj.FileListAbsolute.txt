@@ -1,0 +1,10 @@
+E:\Fatec 2017 - 2ºsem\Fábio - Linguagem de Programação\Projeto_Classes_1\Projeto_Classes_1\bin\Debug\Projeto_Classes_1.exe.config
+E:\Fatec 2017 - 2ºsem\Fábio - Linguagem de Programação\Projeto_Classes_1\Projeto_Classes_1\bin\Debug\Projeto_Classes_1.exe
+E:\Fatec 2017 - 2ºsem\Fábio - Linguagem de Programação\Projeto_Classes_1\Projeto_Classes_1\bin\Debug\Projeto_Classes_1.pdb
+E:\Fatec 2017 - 2ºsem\Fábio - Linguagem de Programação\Projeto_Classes_1\Projeto_Classes_1\obj\Debug\Projeto_Classes_1.csprojResolveAssemblyReference.cache
+E:\Fatec 2017 - 2ºsem\Fábio - Linguagem de Programação\Projeto_Classes_1\Projeto_Classes_1\obj\Debug\Projeto_Classes_1.Form1.resources
+E:\Fatec 2017 - 2ºsem\Fábio - Linguagem de Programação\Projeto_Classes_1\Projeto_Classes_1\obj\Debug\Projeto_Classes_1.Properties.Resources.resources
+E:\Fatec 2017 - 2ºsem\Fábio - Linguagem de Programação\Projeto_Classes_1\Projeto_Classes_1\obj\Debug\Projeto_Classes_1.csproj.GenerateResource.Cache
+E:\Fatec 2017 - 2ºsem\Fábio - Linguagem de Programação\Projeto_Classes_1\Projeto_Classes_1\obj\Debug\Projeto_Classes_1.csproj.CoreCompileInputs.cache
+E:\Fatec 2017 - 2ºsem\Fábio - Linguagem de Programação\Projeto_Classes_1\Projeto_Classes_1\obj\Debug\Projeto_Classes_1.exe
+E:\Fatec 2017 - 2ºsem\Fábio - Linguagem de Programação\Projeto_Classes_1\Projeto_Classes_1\obj\Debug\Projeto_Classes_1.pdb

@@ -1,0 +1,9 @@
+D:\Fatec 2017 - 2ºsem\Fábio - Linguagem de Programação\Via código\Via código\bin\Debug\Via código.exe.config
+D:\Fatec 2017 - 2ºsem\Fábio - Linguagem de Programação\Via código\Via código\bin\Debug\Via código.exe
+D:\Fatec 2017 - 2ºsem\Fábio - Linguagem de Programação\Via código\Via código\bin\Debug\Via código.pdb
+D:\Fatec 2017 - 2ºsem\Fábio - Linguagem de Programação\Via código\Via código\obj\Debug\Via código.csprojResolveAssemblyReference.cache
+D:\Fatec 2017 - 2ºsem\Fábio - Linguagem de Programação\Via código\Via código\obj\Debug\Via_código.Form1.resources
+D:\Fatec 2017 - 2ºsem\Fábio - Linguagem de Programação\Via código\Via código\obj\Debug\Via_código.Properties.Resources.resources
+D:\Fatec 2017 - 2ºsem\Fábio - Linguagem de Programação\Via código\Via código\obj\Debug\Via código.csproj.GenerateResource.Cache
+D:\Fatec 2017 - 2ºsem\Fábio - Linguagem de Programação\Via código\Via código\obj\Debug\Via código.exe
+D:\Fatec 2017 - 2ºsem\Fábio - Linguagem de Programação\Via código\Via código\obj\Debug\Via código.pdb

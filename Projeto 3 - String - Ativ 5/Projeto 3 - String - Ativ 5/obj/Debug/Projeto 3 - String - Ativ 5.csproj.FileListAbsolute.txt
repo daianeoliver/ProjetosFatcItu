@@ -1,0 +1,8 @@
+c:\users\aluno - gti-ads\documents\visual studio 2015\Projects\Projeto 3 - String - Ativ 5\Projeto 3 - String - Ativ 5\bin\Debug\Projeto 3 - String - Ativ 5.exe.config
+c:\users\aluno - gti-ads\documents\visual studio 2015\Projects\Projeto 3 - String - Ativ 5\Projeto 3 - String - Ativ 5\bin\Debug\Projeto 3 - String - Ativ 5.exe
+c:\users\aluno - gti-ads\documents\visual studio 2015\Projects\Projeto 3 - String - Ativ 5\Projeto 3 - String - Ativ 5\bin\Debug\Projeto 3 - String - Ativ 5.pdb
+c:\users\aluno - gti-ads\documents\visual studio 2015\Projects\Projeto 3 - String - Ativ 5\Projeto 3 - String - Ativ 5\obj\Debug\Projeto_3___String___Ativ_5.Form1.resources
+c:\users\aluno - gti-ads\documents\visual studio 2015\Projects\Projeto 3 - String - Ativ 5\Projeto 3 - String - Ativ 5\obj\Debug\Projeto_3___String___Ativ_5.Properties.Resources.resources
+c:\users\aluno - gti-ads\documents\visual studio 2015\Projects\Projeto 3 - String - Ativ 5\Projeto 3 - String - Ativ 5\obj\Debug\Projeto 3 - String - Ativ 5.csproj.GenerateResource.Cache
+c:\users\aluno - gti-ads\documents\visual studio 2015\Projects\Projeto 3 - String - Ativ 5\Projeto 3 - String - Ativ 5\obj\Debug\Projeto 3 - String - Ativ 5.exe
+c:\users\aluno - gti-ads\documents\visual studio 2015\Projects\Projeto 3 - String - Ativ 5\Projeto 3 - String - Ativ 5\obj\Debug\Projeto 3 - String - Ativ 5.pdb

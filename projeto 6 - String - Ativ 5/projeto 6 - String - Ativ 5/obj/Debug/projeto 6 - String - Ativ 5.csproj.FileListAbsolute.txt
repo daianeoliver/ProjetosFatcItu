@@ -1,0 +1,5 @@
+c:\users\aluno - gti-ads\documents\visual studio 2015\Projects\projeto 6 - String - Ativ 5\projeto 6 - String - Ativ 5\bin\Debug\projeto 6 - String - Ativ 5.exe.config
+c:\users\aluno - gti-ads\documents\visual studio 2015\Projects\projeto 6 - String - Ativ 5\projeto 6 - String - Ativ 5\obj\Debug\projeto 6 - String - Ativ 5.csprojResolveAssemblyReference.cache
+c:\users\aluno - gti-ads\documents\visual studio 2015\Projects\projeto 6 - String - Ativ 5\projeto 6 - String - Ativ 5\obj\Debug\projeto_6___String___Ativ_5.Form1.resources
+c:\users\aluno - gti-ads\documents\visual studio 2015\Projects\projeto 6 - String - Ativ 5\projeto 6 - String - Ativ 5\obj\Debug\projeto_6___String___Ativ_5.Properties.Resources.resources
+c:\users\aluno - gti-ads\documents\visual studio 2015\Projects\projeto 6 - String - Ativ 5\projeto 6 - String - Ativ 5\obj\Debug\projeto 6 - String - Ativ 5.csproj.GenerateResource.Cache

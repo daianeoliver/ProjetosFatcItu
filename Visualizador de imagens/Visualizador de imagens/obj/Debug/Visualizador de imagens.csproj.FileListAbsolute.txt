@@ -1,0 +1,19 @@
+D:\Fatec 2017 - 2ºsem\Fábio - Linguagem de Programação\Visualizador de imagens\Visualizador de imagens\bin\Debug\Visualizador de imagens.exe.config
+D:\Fatec 2017 - 2ºsem\Fábio - Linguagem de Programação\Visualizador de imagens\Visualizador de imagens\bin\Debug\Visualizador de imagens.exe
+D:\Fatec 2017 - 2ºsem\Fábio - Linguagem de Programação\Visualizador de imagens\Visualizador de imagens\bin\Debug\Visualizador de imagens.pdb
+D:\Fatec 2017 - 2ºsem\Fábio - Linguagem de Programação\Visualizador de imagens\Visualizador de imagens\obj\Debug\Visualizador de imagens.csprojResolveAssemblyReference.cache
+D:\Fatec 2017 - 2ºsem\Fábio - Linguagem de Programação\Visualizador de imagens\Visualizador de imagens\obj\Debug\Visualizador_de_imagens.Form1.resources
+D:\Fatec 2017 - 2ºsem\Fábio - Linguagem de Programação\Visualizador de imagens\Visualizador de imagens\obj\Debug\Visualizador_de_imagens.Properties.Resources.resources
+D:\Fatec 2017 - 2ºsem\Fábio - Linguagem de Programação\Visualizador de imagens\Visualizador de imagens\obj\Debug\Visualizador de imagens.csproj.GenerateResource.Cache
+D:\Fatec 2017 - 2ºsem\Fábio - Linguagem de Programação\Visualizador de imagens\Visualizador de imagens\obj\Debug\Visualizador de imagens.exe
+D:\Fatec 2017 - 2ºsem\Fábio - Linguagem de Programação\Visualizador de imagens\Visualizador de imagens\obj\Debug\Visualizador de imagens.pdb
+W:\Fatec 2017 - 2ºsem\Fábio - Linguagem de Programação\Visualizador de imagens\Visualizador de imagens\bin\Debug\Visualizador de imagens.exe.config
+W:\Fatec 2017 - 2ºsem\Fábio - Linguagem de Programação\Visualizador de imagens\Visualizador de imagens\bin\Debug\Visualizador de imagens.exe
+W:\Fatec 2017 - 2ºsem\Fábio - Linguagem de Programação\Visualizador de imagens\Visualizador de imagens\bin\Debug\Visualizador de imagens.pdb
+W:\Fatec 2017 - 2ºsem\Fábio - Linguagem de Programação\Visualizador de imagens\Visualizador de imagens\obj\Debug\Visualizador de imagens.csprojResolveAssemblyReference.cache
+W:\Fatec 2017 - 2ºsem\Fábio - Linguagem de Programação\Visualizador de imagens\Visualizador de imagens\obj\Debug\Visualizador_de_imagens.Form1.resources
+W:\Fatec 2017 - 2ºsem\Fábio - Linguagem de Programação\Visualizador de imagens\Visualizador de imagens\obj\Debug\Visualizador_de_imagens.Properties.Resources.resources
+W:\Fatec 2017 - 2ºsem\Fábio - Linguagem de Programação\Visualizador de imagens\Visualizador de imagens\obj\Debug\Visualizador de imagens.csproj.GenerateResource.Cache
+W:\Fatec 2017 - 2ºsem\Fábio - Linguagem de Programação\Visualizador de imagens\Visualizador de imagens\obj\Debug\Visualizador de imagens.csproj.CoreCompileInputs.cache
+W:\Fatec 2017 - 2ºsem\Fábio - Linguagem de Programação\Visualizador de imagens\Visualizador de imagens\obj\Debug\Visualizador de imagens.exe
+W:\Fatec 2017 - 2ºsem\Fábio - Linguagem de Programação\Visualizador de imagens\Visualizador de imagens\obj\Debug\Visualizador de imagens.pdb

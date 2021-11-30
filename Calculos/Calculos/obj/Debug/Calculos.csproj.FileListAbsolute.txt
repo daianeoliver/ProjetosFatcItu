@@ -1,0 +1,11 @@
+c:\users\aluno - gti-ads\documents\visual studio 2015\Projects\Calculos\Calculos\bin\Debug\Calculos.exe.config
+c:\users\aluno - gti-ads\documents\visual studio 2015\Projects\Calculos\Calculos\obj\Debug\Calculos.frmExemplo1.resources
+c:\users\aluno - gti-ads\documents\visual studio 2015\Projects\Calculos\Calculos\obj\Debug\Calculos.Properties.Resources.resources
+c:\users\aluno - gti-ads\documents\visual studio 2015\Projects\Calculos\Calculos\obj\Debug\Calculos.csproj.GenerateResource.Cache
+c:\users\aluno - gti-ads\documents\visual studio 2015\Projects\Calculos\Calculos\bin\Debug\Calculos.exe
+c:\users\aluno - gti-ads\documents\visual studio 2015\Projects\Calculos\Calculos\bin\Debug\Calculos.pdb
+c:\users\aluno - gti-ads\documents\visual studio 2015\Projects\Calculos\Calculos\obj\Debug\Calculos.exe
+c:\users\aluno - gti-ads\documents\visual studio 2015\Projects\Calculos\Calculos\obj\Debug\Calculos.pdb
+D:\Fatec 2017 - 2ºsem\Fábio - Linguagem de Processos\Calculos\Calculos\bin\Debug\Calculos.exe.config
+D:\Fatec 2017 - 2ºsem\Fábio - Linguagem de Processos\Calculos\Calculos\obj\Debug\Calculos.exe
+D:\Fatec 2017 - 2ºsem\Fábio - Linguagem de Processos\Calculos\Calculos\obj\Debug\Calculos.pdb

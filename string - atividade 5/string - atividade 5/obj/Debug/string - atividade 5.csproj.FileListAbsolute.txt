@@ -1,0 +1,9 @@
+c:\users\aluno - gti-ads\documents\visual studio 2015\Projects\string - atividade 5\string - atividade 5\bin\Debug\string - atividade 5.exe.config
+c:\users\aluno - gti-ads\documents\visual studio 2015\Projects\string - atividade 5\string - atividade 5\bin\Debug\string - atividade 5.exe
+c:\users\aluno - gti-ads\documents\visual studio 2015\Projects\string - atividade 5\string - atividade 5\bin\Debug\string - atividade 5.pdb
+c:\users\aluno - gti-ads\documents\visual studio 2015\Projects\string - atividade 5\string - atividade 5\obj\Debug\string - atividade 5.csprojResolveAssemblyReference.cache
+c:\users\aluno - gti-ads\documents\visual studio 2015\Projects\string - atividade 5\string - atividade 5\obj\Debug\string___atividade_5.Form1.resources
+c:\users\aluno - gti-ads\documents\visual studio 2015\Projects\string - atividade 5\string - atividade 5\obj\Debug\string___atividade_5.Properties.Resources.resources
+c:\users\aluno - gti-ads\documents\visual studio 2015\Projects\string - atividade 5\string - atividade 5\obj\Debug\string - atividade 5.csproj.GenerateResource.Cache
+c:\users\aluno - gti-ads\documents\visual studio 2015\Projects\string - atividade 5\string - atividade 5\obj\Debug\string - atividade 5.exe
+c:\users\aluno - gti-ads\documents\visual studio 2015\Projects\string - atividade 5\string - atividade 5\obj\Debug\string - atividade 5.pdb

@@ -1,0 +1,10 @@
+C:\Users\FranciscoJhonata\Documents\DAIANE PROJETOS LP\Tabuaba\Tabuaba\bin\Debug\Tabuaba.exe.config
+C:\Users\FranciscoJhonata\Documents\DAIANE PROJETOS LP\Tabuaba\Tabuaba\bin\Debug\Tabuaba.exe
+C:\Users\FranciscoJhonata\Documents\DAIANE PROJETOS LP\Tabuaba\Tabuaba\bin\Debug\Tabuaba.pdb
+C:\Users\FranciscoJhonata\Documents\DAIANE PROJETOS LP\Tabuaba\Tabuaba\obj\Debug\Tabuaba.csprojResolveAssemblyReference.cache
+C:\Users\FranciscoJhonata\Documents\DAIANE PROJETOS LP\Tabuaba\Tabuaba\obj\Debug\Tabuaba.Form1.resources
+C:\Users\FranciscoJhonata\Documents\DAIANE PROJETOS LP\Tabuaba\Tabuaba\obj\Debug\Tabuaba.Properties.Resources.resources
+C:\Users\FranciscoJhonata\Documents\DAIANE PROJETOS LP\Tabuaba\Tabuaba\obj\Debug\Tabuaba.csproj.GenerateResource.Cache
+C:\Users\FranciscoJhonata\Documents\DAIANE PROJETOS LP\Tabuaba\Tabuaba\obj\Debug\Tabuaba.csproj.CoreCompileInputs.cache
+C:\Users\FranciscoJhonata\Documents\DAIANE PROJETOS LP\Tabuaba\Tabuaba\obj\Debug\Tabuaba.exe
+C:\Users\FranciscoJhonata\Documents\DAIANE PROJETOS LP\Tabuaba\Tabuaba\obj\Debug\Tabuaba.pdb
